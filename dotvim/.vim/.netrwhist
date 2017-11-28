@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/dmartana/workspace/lego/output/bhr4_dev/lib'
+let g:netrw_dirhist_2='/home/dmartana/workspace/lego/proprietary/bhr_common_tr69bl'
+let g:netrw_dirhist_3='/home/dmartana/workspace/lego/proprietary'
+let g:netrw_dirhist_4='/home/dmartana/workspace/lego'
